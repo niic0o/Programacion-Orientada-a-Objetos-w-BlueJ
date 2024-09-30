@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Punto
+comment0.text=\r\n\ Esta\ clase\ permite\ conocer\ las\ coordenadas\ de\ un\ punto\ en\ un\ plano\ de\ dos\ dimensiones,\ tambien\ permite\ su\ desplazamiento.\r\n\ @autor\ Sena,\ Nicolas\ Ariel\r\n\ @version\ 1.0\ -\ 30/08/2017\r\n
+comment1.params=
+comment1.target=Punto()
+comment1.text=@param\ -\ solo\ inicializa\ atributos
+comment2.params=p_x\ p_y
+comment2.target=Punto(double,\ double)
+comment2.text=\ @param\ p_x\ posicion\ del\ punto\ en\ X\r\n\ \ @param\ p_y\ posicion\ del\ punto\ en\ Y\r\n
+comment3.params=p_x
+comment3.target=void\ setX(double)
+comment4.params=p_y
+comment4.target=void\ setY(double)
+comment5.params=
+comment5.target=double\ getX()
+comment5.text=@return\ getters\ devuelven\ los\ valores\ que\ contienen\ los\ atributos\ referenciados
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=p_dx\ p_dy
+comment7.target=void\ desplazar(double,\ double)
+comment7.text=\ @param\ p_dx\ valor\ de\ X\ ingresado\ para\ desplazamiento\ del\ punto\r\n\ \ @param\ p_dy\ valor\ de\ Y\ ingresado\ para\ desplazamiento\ del\ punto\r\n
+comment8.params=
+comment8.target=void\ mostrar()
+comment9.params=
+comment9.target=java.lang.String\ coordenadas()
+comment9.text=@return\ retorna\ las\ coordenadas\ del\ punto\ como\ cadena\ de\ caracteres
+numComments=10

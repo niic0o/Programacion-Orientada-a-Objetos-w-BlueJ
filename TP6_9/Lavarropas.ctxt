@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Lavarropas
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Lavarropa\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_programas\ p_kilos\ p_automatico
+comment1.target=Lavarropas(java.lang.String,\ float,\ int,\ int,\ float,\ boolean)
+comment1.text=\r\n\ @param\ p_marca\ marca\ del\ artefacto\r\n\ @param\ p_precio\ costo\ sin\ interes\ del\ artefacto\r\n\ @param\ p_stock\ cantidad\ disponible\ para\ la\ venta\r\n\ @param\ p_programas\ cantidad\ de\ tareas\ que\ realiza\r\n\ @param\ p_kilos\ peso\ en\ gramos\r\n\ @param\ p_automatico\ si\ lo\ es\ o\ no\r\n
+comment2.params=p_programas
+comment2.target=void\ setProgramas(int)
+comment3.params=p_kilos
+comment3.target=void\ setKilos(float)
+comment4.params=p_automatico
+comment4.target=void\ setAutomatico(boolean)
+comment5.params=
+comment5.target=int\ getProgramas()
+comment6.params=
+comment6.target=float\ getKilos()
+comment7.params=
+comment7.target=boolean\ getAutomatico()
+comment8.params=p_cuotas\ p_interes
+comment8.target=float\ creditoConAdicional(int,\ float)
+comment8.text=\r\n\ @param\ p_cuotas\ cantidad\ de\ veces\ a\ pagar\r\n\ @param\ p_interes\ porcentaje\ de\ interes\r\n\ @return\ devuelve\ el\ credito\ con\ un\ adicional.\r\n
+comment9.params=
+comment9.target=void\ imprimir()
+numComments=10

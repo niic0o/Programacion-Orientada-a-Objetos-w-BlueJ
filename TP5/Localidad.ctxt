@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Localidad
+comment0.text=\r\n\ Da\ a\ conocer\ el\ lugar\ de\ procedencia\ o\ localizacion\ de\ una\ persona.\r\n\ \r\n\ @author\ Nicolas\ Ariel\ Sena\r\n\ @version\ 1.0\ -\ 14/09/2017\r\n
+comment1.params=p_nombre\ p_provincia
+comment1.target=Localidad(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ @param\ p_nombre\ ciudad\r\n\ @param\ p_provincia\ provincia\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_provincia
+comment3.target=void\ setProvincia(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment4.text=@return\ getters\ devuelven\ los\ valores\ que\ contienen\ los\ atributos\ referenciados
+comment5.params=
+comment5.target=java.lang.String\ getProvincia()
+comment6.params=
+comment6.target=java.lang.String\ mostrar()
+comment6.text=@return\ cadena\ de\ caracteres\ con\ la\ ciudad\ y\ provincia
+numComments=7

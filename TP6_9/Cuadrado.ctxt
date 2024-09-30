@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ Esta\ clase\ es\ una\ especializacion\ de\ Rectangulo.\ Permite\ conocer\ datos\ descriptivos\ de\ la\ figura\ indicada.\r\n\ \r\n\ @author\ (Sena,\ Nicolas\ Ariel\r\n\ @version\ 11/2017\r\n
+comment1.params=p_origen\ p_lado
+comment1.target=Cuadrado(Punto,\ double)
+comment2.params=p_lado
+comment2.target=void\ setLado(double)
+comment3.params=
+comment3.target=double\ getLado()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment5.params=
+comment5.target=void\ caracteristicas()
+numComments=6

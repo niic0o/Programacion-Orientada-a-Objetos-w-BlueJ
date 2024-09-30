@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=p_nombre
+comment0.target=Fundacion(java.lang.String)
+comment1.params=p_nombre
+comment1.target=void\ setNombre(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=p_evento\ p_persona
+comment3.target=void\ imprimirInvitacion(Evento,\ Persona)
+comment4.params=p_evento\ p_persona\ unArchivo
+comment4.target=void\ grabarInvitacion(Evento,\ Persona,\ java.io.DataOutputStream)
+numComments=5

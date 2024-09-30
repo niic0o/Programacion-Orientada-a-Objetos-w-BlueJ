@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GestionDelComite
+comment0.text=\r\n\ Instancia\ objetos\ de\ la\ clase\ Siniestro,\ UnidadDeRiesgo\ y\ Poliza\ y\ guarda\ datos\ en\ un\ archivo\ secuencial.\r\n\ \r\n\ \r\n\ @author\:\ Nicolas\ Ariel\ Sena\r\n\ @version\:\ v1.0\ -\ 10/2017\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

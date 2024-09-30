@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=UnidadDeRiesgo
+comment0.text=\r\n\ Instancia\ un\ objeto\ con\ datos\ basicos\ del\ cultivo\ a\ proteger.\r\n\ \r\n\ @author\:\ Nicolas\ Ariel\ Sena\r\n\ @version\:\ v1.0\ -\ 10/2017\r\n
+comment1.params=p_agricultor\ p_cultivo\ p_fecha
+comment1.target=UnidadDeRiesgo(java.lang.String,\ java.lang.String,\ java.util.Calendar)
+comment1.text=\r\n\ @param\ p_agricultor\ nombre\ de\ agricultor\r\n\ @param\ p_cultivo\ tipo\ de\ cultipo\r\n\ @param\ p_fecha\ .\r\n
+comment2.params=p_agricultor
+comment2.target=void\ setAgricultor(java.lang.String)
+comment3.params=p_cultivo
+comment3.target=void\ setCultivo(java.lang.String)
+comment4.params=p_fecha
+comment4.target=void\ setFechaCosecha(java.util.Calendar)
+comment5.params=
+comment5.target=java.lang.String\ getAgricultor()
+comment6.params=
+comment6.target=java.lang.String\ getCultivo()
+comment7.params=
+comment7.target=java.util.Calendar\ getFechaCosecha()
+comment8.params=
+comment8.target=void\ mostrarDetalle()
+comment8.text=\r\n\ Muestra\ los\ datos\ del\ agricultor\ y\ del\ cultivo\r\n
+numComments=9

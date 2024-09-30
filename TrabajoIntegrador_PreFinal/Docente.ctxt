@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Docente
+comment0.text=\r\n\ Instancia\ un\ objeto\ de\ la\ clase\ Docente.\r\n\ \r\n\ Clase\ DOCENTE\:\ extiende\ SOCIO;\r\n\ @author\ (Domingo\ Pacheco)\ 19/11/2017\r\n\ @version\ (1.0)\ 19\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_area
+comment1.target=Docente(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase.\r\n\ \r\n\ @param\ p_dniSocio\ \ \ \ DNI\ del\ socio.\r\n\ @param\ p_nombre\ \ \ \ \ \ Nombre\ del\ socio.\r\n\ @param\ p_area\ \ \ \ \ \ \ \ Area\ a\ la\ que\ pertenece\ el\ docente.\r\n
+comment2.params=p_area
+comment2.target=void\ setArea(java.lang.String)
+comment2.text=\r\n\ Asigna\ el\ valor\ a\ area.\r\n\ \r\n\ @param\ p_area\ un\ String\ con\ el\ area\ al\ que\ pertenece\ el\ docente.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getArea()
+comment3.text=\r\n\ Obtiene\ el\ valor\ de\ area\r\n\ \r\n\ @return\ un\ String\ con\ el\ nombre\ el\ area\ al\ que\ pertenece\ el\ Docente.\r\n
+comment4.params=
+comment4.target=boolean\ esResponsable()
+comment4.text=\r\n\ Recorre\ el\ contenedor\ de\ pr\u00E9stamos\ en\ busca\ de\ alg\u00FAn\ pr\u00E9stamo\ que\ est\u00E9\r\n\ vencido\ o\ que\ haya\ estado\ vencido\ al\ momento\ de\ la\ devoluci\u00F3n.\ Se\ considera\r\n\ que\ el\ docente\ es\ responsable\ si\ no\ registra\ pr\u00E9stamos\ vencidos.\r\n\ \r\n\ @return\ true\ si\ el\ docente\ es\ responsable\r\n
+comment5.params=p_dias
+comment5.target=void\ agregarDiasDePrestamo(int)
+comment5.text=\r\n\ Agrega\ dias\ de\ pr\u00E9stamos\ al\ Docente,\ como\ premio\ a\ su\ responsabilidad.\r\n\ A\ lo\ que\ ya\ tiene,\ se\ le\ agregan\ p_dias\ d\u00EDas.\r\n\ \r\n\ @param\ p_dias\ un\ entero\ con\ la\ cantidad\ de\ dias\ que\ se\ le\ asignan\ de\ nuevo,\ como\ premio.\r\n
+comment6.params=
+comment6.target=java.lang.String\ soyDeLaClase()
+comment6.text=\r\n\ Devuelve\ el\ nombre\ de\ la\ clase\ como\ String.\r\n\ \r\n\ @return\ un\ String\ con\ el\ className().\r\n
+numComments=7

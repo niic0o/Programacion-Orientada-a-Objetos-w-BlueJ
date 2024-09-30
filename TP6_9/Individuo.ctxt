@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Individuo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Delegacion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_nombre\ p_fechaVisita\ p_persona
+comment1.target=Individuo(java.lang.String,\ java.util.Calendar,\ Persona)
+comment2.params=p_persona
+comment2.target=void\ setPersona(Persona)
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=
+comment4.target=void\ mostrar()
+comment5.params=
+comment5.target=double\ entrada()
+comment6.params=
+comment6.target=java.lang.String\ tipoVisitante()
+comment7.params=p_fecha\ p_visitante
+comment7.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+numComments=8

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CajaDeAhorro
+comment0.text=\r\n\ Permite\ realizar\ movimientos\ monetarios\ dentro\ de\ un\ limite\ establecido\ y\ reflejarlos\ en\ pantalla.\r\n\ \r\n\ @author\ Nicolas\ Ariel\ Sena\ \r\n\ @version\ 1.0\ -\ 14/09/2017\r\n
+comment1.params=p_nroCuenta\ p_titular
+comment1.target=CajaDeAhorro(int,\ Persona)
+comment1.text=\r\n\ @param\ p_nroCuenta\ numero\ clave\ de\ identificacion\r\n\ @param\ p_titular\ contiene\ informacion\ del\ propietario\ de\ la\ cuenta\r\n
+comment2.params=p_nroCuenta\ p_titular\ p_saldo
+comment2.target=CajaDeAhorro(int,\ Persona,\ double)
+comment2.text=\r\n\ @param\ p_nroCuenta\ numero\ clave\ de\ identificacion\r\n\ @param\ p_titular\ contiene\ informacion\ del\ propietario\ de\ la\ cuenta\r\n\ @param\ p_saldo\ dinero\ \r\n
+comment3.params=p_extracciones
+comment3.target=void\ setExtraccionesPosibles(int)
+comment4.params=
+comment4.target=int\ getExtraccionesPosibles()
+comment4.text=@return\ getters\ devuelven\ los\ valores\ que\ contienen\ los\ atributos\ referenciados
+comment5.params=p_importe
+comment5.target=boolean\ puedeExtraer(double)
+comment5.text=\r\n\ @param\ p_importe\ suma\ de\ dinero\ a\ depositar/extraer\r\n\ @return\ devuelve\ la\ confirmacion\ de\ extraccion\r\n
+comment6.params=p_importe
+comment6.target=boolean\ extraer(double)
+comment7.params=p_importe
+comment7.target=java.lang.String\ xQNoPuedoExtraer(double)
+comment8.params=
+comment8.target=void\ mostrar()
+numComments=9

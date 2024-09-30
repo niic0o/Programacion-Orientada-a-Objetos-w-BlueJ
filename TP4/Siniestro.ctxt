@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Siniestro
+comment0.text=\r\n\ Instancia\ un\ objeto\ Siniestro.\r\n\ \ \r\n\ @author\:\ Nicolas\ Ariel\ Sena\r\n\ @version\:\ v1.0\ -\ 10/2017\r\n
+comment1.params=p_fecha\ p_porceDanio
+comment1.target=Siniestro(java.util.Calendar,\ double)
+comment1.text=\r\n\ \r\n\ @param\ Calendar\ p_fecha\r\n\ @param\ double\ p_porceDanio\r\n
+comment2.params=p_fecha
+comment2.target=void\ setFecha(java.util.Calendar)
+comment2.text=\r\n\ \r\n\ @param\ Calendar\ p_fecha\r\n
+comment3.params=p_porceDanio
+comment3.target=void\ setPorceDanio(double)
+comment3.text=\r\n\ @param\ double\ p_porceDanio\r\n
+comment4.params=
+comment4.target=java.util.Calendar\ getFecha()
+comment4.text=\r\n\ @return\ Calendar\ fecha\r\n
+comment5.params=
+comment5.target=double\ getPorceDanio()
+comment5.text=\r\n\ @return\ Retorna\ porcentajeDanio\r\n
+comment6.params=p_valorAsegurado
+comment6.target=double\ totalDanio(double)
+comment6.text=\r\n\ @return\ Calcula\ el\ importe\ que\ representa\ el\ porcentaje\ del\ da\u00F1o\ ocasionado\ por\ el\ siniestro\r\n\ sobre\ el\ \r\n\ \r\n
+numComments=7

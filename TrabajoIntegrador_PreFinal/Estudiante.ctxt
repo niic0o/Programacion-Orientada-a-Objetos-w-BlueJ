@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Estudiante
+comment0.text=\r\n\ Instancia\ un\ objeto\ de\ la\ clase\ Estudiante.\r\n\ \r\n\ @author\ (DOMINGO\ PACHECO)\ \r\n\ @version\ (1.0\ //\ 10/11/2017\:\ 21.55)\r\n
+comment1.params=p_dniSocio\ p_nombre\ p_carrera
+comment1.target=Estudiante(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ Estudiante\r\n\ \r\n\ @param\ p_dniSocio\ \ \ \ DNI\ del\ socio.\r\n\ @param\ p_nombre\ \ \ \ \ \ Nombre\ del\ socio.\r\n\ @param\ p_carrera\ \ \ \ \ Carreara\ que\ estudia\ es\ estudiante.\r\n
+comment2.params=p_carrera
+comment2.target=void\ setCarrera(java.lang.String)
+comment2.text=\r\n\ Asigna\ valor\ al\ atributo\ carrera.\r\n\ \r\n\ @param\ p_carrera\ String\ que\ contiene\ el\ valor\ de\ Carrera.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCarrera()
+comment3.text=\r\n\ Retorna\ el\ valor\ de\ la\ carrea\ que\ cursa\ el\ estudiante.\r\n\ \r\n\ @return\ un\ String\ con\ el\ nombre\ de\ la\ carrera\ que\ cursa\ el\ socio\ estudiante.\r\n
+comment4.params=
+comment4.target=boolean\ puedePedir()
+comment4.text=\r\n\ Especializaci\u00F3n\ del\ comportamiento\ del\ m\u00E9todo\ puedePedir()\ de\ la\ clase\ Socio.\r\n\ Comprueba\ que\ Estudiante\ no\ tenga\ m\u00E1s\ de\ 3\ libros\ en\ su\ poder\ ya\ que\ aparte\r\n\ del\ vencimiento,\ requisito\ com\u00FAn\ a\ todos\ los\ socios,\ un\ Estudiante\ no\ podr\u00E1\r\n\ tener\ m\u00E1s\ de\ libros\ simultaneamente.\r\n\ \r\n\ @return\ true\ si\ Estudiante\ tiene\ menos\ de\ 3\ libros\ en\ su\ poder\r\n
+comment5.params=
+comment5.target=java.lang.String\ soyDeLaClase()
+comment5.text=\r\n\ Identifica\ a\ la\ instancia\ retornando\ una\ cadena\ con\ el\ nombre\ de\ la\ clase.\r\n\ \r\n\ @return\ String\ "Estudiante"\r\n
+numComments=6

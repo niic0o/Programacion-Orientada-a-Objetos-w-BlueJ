@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Hospital
+comment0.text=\r\n\ Brinda\ los\ datos\ basicos\ del\ establecimiento.\r\n\ \r\n\ @author\ Nicolas\ Ariel\ Sena\r\n\ @version\ 1.0\ -\ 14/09/2017\r\n
+comment1.params=p_nombreHospital\ p_nombreDirector
+comment1.target=Hospital(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ @param\ p_nombreHospital\ Nombre\ del\ establecimiento\r\n\ @param\ p_nombreDirector\ A\ cargo\ del\ establecimiento\r\n\ \r\n
+comment2.params=p_nombreHospital
+comment2.target=void\ setNombreHospital(java.lang.String)
+comment3.params=p_nombreDirector
+comment3.target=void\ setNombreDirector(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombreHospital()
+comment4.text=@return\ getters\ devuelven\ los\ valores\ que\ contienen\ los\ atributos\ referenciados
+comment5.params=
+comment5.target=java.lang.String\ getNombreDirector()
+comment6.params=p_paciente
+comment6.target=void\ consultaDatosFiliatorios(Paciente)
+comment6.text=@param\ p_paciente\ contiene\ los\ datos\ de\ un\ paciente
+numComments=7
